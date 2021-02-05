@@ -15,7 +15,7 @@ repositories {
 }
 
 dependencies {
-    def rsocket = '1.0.2'
+    def rsocket = '1.0.3'
     rsocket = '1.1.0'
     compile "io.rsocket:rsocket-core:$rsocket"
     compile "io.rsocket:rsocket-transport-netty:$rsocket"
